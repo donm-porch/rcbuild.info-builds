@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Andoer FPV250",
+    "esc": "Flyduino/KISS-18A-3D",
+    "motor": "Space One FPV 2300kV",
+    "fc": "ReadyToFlyQuads/CC3D",
+    "prop": [
+      "HQProp/5x4.5-FG-BN"
+    ],
+    "arm": "",
+    "battery": [
+      "UnknownManufacturer/multirotorsuperstore/3S-1800mAh-35C-Lipo-Battery"
+    ],
+    "osd": "",
+    "receiver": "Graupner MZ18",
+    "flightcam": "",
+    "hqcam": "",
+    "videotx": "Boscam/TS353-5.8G-400mW-AV-Transmitter",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
